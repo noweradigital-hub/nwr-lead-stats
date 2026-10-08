@@ -43,3 +43,6 @@ npx @wp-playground/cli@latest server --port=9430 --php=8.1 --login --blueprint=t
 
 - `/nwr-tests/seed.php`: simulované odoslania zo všetkých pluginov, história, spam, drafty, testy, únik Bricksforge requestu.
 - `/nwr-tests/amelia.php`: Amelia, hranica dňa v GMT, rezervácie personálu, filter, `complete_since` (vypíše `N passed, 0 failed`).
+
+## Licencia
+GPL-2.0-or-later, plné znenie v [LICENSE](LICENSE).
