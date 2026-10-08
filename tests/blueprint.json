@@ -1,0 +1,9 @@
+{
+  "landingPage": "/wp-admin/",
+  "preferredVersions": { "php": "8.1", "wp": "latest" },
+  "steps": [
+    { "step": "login" },
+    { "step": "activatePlugin", "pluginPath": "nwr-lead-stats/nwr-lead-stats.php" },
+    { "step": "setSiteOptions", "options": { "timezone_string": "Europe/Bratislava" } }
+  ]
+}
